@@ -9,6 +9,9 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@types/node": "^20.11.22",
+    "semistandard": "^17.0.0",
+    "typescript": "^5.3.3",
     "vite": "^4.1.0"
   },
   "dependencies": {
